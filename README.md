@@ -3,6 +3,7 @@
 ![Tests](https://github.com/camuthig/django-filter-drf-camel-case/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/camuthig/django-filter-drf-camel-case/branch/main/graph/badge.svg?token=GAGIIZXC95)](https://codecov.io/gh/camuthig/django-filter-drf-camel-case)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Source Code](https://img.shields.io/badge/Source-code-blue)](https://github.com/camuthig/django-filter-drf-camel-case)
 
 A collection of utility classes that make using camel cased query parameters easier with [Django REST
 Framework](https://www.django-rest-framework.org/) and [django-filter](https://django-filter.readthedocs.io/en/latest/index.html).
