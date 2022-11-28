@@ -1,0 +1,9 @@
+__pycache__
+.idea
+.vscode
+.local
+poetry.lock
+db.sqlite3
+.coverage
+coverage.xml
+dist
