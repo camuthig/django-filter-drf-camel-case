@@ -4,7 +4,7 @@ on:
     tags:
       - '*'
 jobs:
-  test_pypi:
+  release_pypi:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
